@@ -1,1 +1,1 @@
-ssm
+Spring + SpringMVC + Mybatis
